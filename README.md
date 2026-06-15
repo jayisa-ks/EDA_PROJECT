@@ -1,6 +1,27 @@
 ###  Gym Member Data Analysis using Pandas
 
-This project analyzes gym member data to uncover patterns in workout behavior, attendance, and fitness performance.
-Using Python and the Pandas library, the dataset is explored to examine factors such as age, gender, workout type, duration,
-and calories burned. The analysis reveals that workout habits and efficiency are generally consistent across different groups,
-with only minor variations in intensity and timing. These insights can help improve fitness programs and enhance member engagement.
+### Overview
+
+Analyzed gym member data to identify workout patterns, attendance trends, and fitness performance using Python and Pandas. The project explores factors such as age, gender, workout type, duration, and calories burned to uncover actionable insights.
+
+### TOOLS & TECHNOLOGIES
+-Python
+-Pandas
+-NumPy
+-Matplotlib
+-Seaborn
+-Jupyter Notebook
+
+### Key Insights
+Workout preferences are similar across genders.
+Attendance patterns remain consistent across membership types.
+Workout duration shows minimal variation across age groups.
+Evening sessions exhibit slightly higher workout intensity.
+Calorie-burning efficiency is similar across workout types.
+
+### Skills Demonstrated
+Data Cleaning
+Exploratory Data Analysis (EDA)
+Data Visualization
+Statistical Analysis
+
