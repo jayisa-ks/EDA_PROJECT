@@ -1,4 +1,4 @@
-###  Gym Member Data Analysis using Pandas
+### Gym Member Performance Analytics | Python, Pandas, Matplotlib, Seaborn
 
 ### Overview
 
